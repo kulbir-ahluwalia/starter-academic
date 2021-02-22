@@ -42,4 +42,4 @@ I am pursuing my Masters in Robotics at the University of Maryland at College Pa
 
 My research interests include planning for multiple robots, robot navigation for autonomous vehicles in unknown environments with uncertainty and applied computer vision. Learning to use RL for multi-agent systems and high-level planning and DL for computer vision applications.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Kulbir_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
