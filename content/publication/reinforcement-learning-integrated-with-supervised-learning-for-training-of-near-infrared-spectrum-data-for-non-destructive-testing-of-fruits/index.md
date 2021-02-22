@@ -13,7 +13,7 @@ draft: false
 featured: false
 image:
   filename: ""
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 summary: A machine learning algorithm combining reinforcement learning and
   supervised learning is demonstrated for training of near infrared spectroscopy
