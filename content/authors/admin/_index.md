@@ -2,12 +2,11 @@
 title: Kulbir Singh Ahluwalia
 role: Master of Engineering student in Robotics
 avatar_filename: cropped-cherry-blossoms.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: My research interests include planning for multiple robots, robot
+  navigation for autonomous vehicles in unknown environments with uncertainty
+  and applied computer vision. Learning to use RL for multi-agent systems and
+  high-level planning and DL for computer vision applications.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +41,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am pursuing my Masters in Robotics at the University of Maryland at College Park. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include planning for multiple robots, robot navigation for autonomous vehicles in unknown environments with uncertainty and applied computer vision. Learning to use RL for multi-agent systems and high-level planning and DL for computer vision applications.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
