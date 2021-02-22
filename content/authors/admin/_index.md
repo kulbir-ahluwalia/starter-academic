@@ -28,7 +28,7 @@ organizations:
     url: https://robotics.umd.edu/
 education:
   courses:
-    - course: Master of Engineering in Robotics
+    - course: Master of Engineering, Robotics
       institution: University of Maryland, College Park
       year: ""
     - course: Bachelor of Technology, Electrical Engineering
