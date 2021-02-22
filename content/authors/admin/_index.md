@@ -1,6 +1,7 @@
 ---
 title: Kulbir Singh Ahluwalia
-role: "Master of Engineering student in Robotics at "
+role: Master of Engineering student in Robotics
+avatar_filename: kulbir_cherry_blossoms.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
