@@ -1,7 +1,7 @@
 ---
 title: Kulbir Singh Ahluwalia
 role: Master of Engineering student in Robotics
-avatar_filename: cropped-cherry-blossoms.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include planning for multiple robots, robot
   navigation for autonomous vehicles in unknown environments with uncertainty
   and applied computer vision. Learning to use RL for multi-agent systems and
