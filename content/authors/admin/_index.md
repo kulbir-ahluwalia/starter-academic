@@ -16,28 +16,25 @@ social:
     link: https://twitter.com/Kulbir_Singh_
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=rXq-2HYAAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kulbir-ahluwalia
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/kulbir-ahluwalia
 organizations:
   - name: University of Maryland, College Park
     url: https://robotics.umd.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Master of Engineering in Robotics
+      institution: University of Maryland, College Park
+      year: ""
+    - course: Bachelor of Technology, Electrical Engineering
+      institution: Punjab Engineering College, Chandigarh, India
+      year: ""
+email: kulbir@umd.edu
 superuser: true
 highlight_name: false
 ---
