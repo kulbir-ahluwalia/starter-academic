@@ -29,7 +29,7 @@ organizations:
 education:
   courses:
     - course: Master of Engineering, Robotics
-      institution: University of Maryland, College Park
+      institution: University of Maryland, College Park, USA
       year: ""
     - course: Bachelor of Technology, Electrical Engineering
       institution: Punjab Engineering College, Chandigarh, India
