@@ -20,7 +20,7 @@ url_source: ""
 url_video: ""
 title: Smartphone Optical Sensors
 doi: https://doi.org/10.1364/OPN.30.2.000034
-featured: true
+featured: false
 tags: []
 projects: []
 image:
